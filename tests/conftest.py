@@ -27,7 +27,7 @@ def docker_client():
 @pytest.fixture(scope='session')
 def image_name():
     """Image name to test"""
-    return 'irnc/js-jupyter-stack'
+    return 'irnc/puppeteer-jupyter-stack'
 
 
 class TrackedContainer(object):

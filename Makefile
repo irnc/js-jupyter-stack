@@ -1,7 +1,7 @@
 .PHONY: help build dev test test-env
 
 # Docker image name and tag
-IMAGE:=irnc/js-jupyter-stack
+IMAGE:=irnc/puppeteer-jupyter-stack
 TAG?=latest
 # Shell that make should use
 SHELL:=bash

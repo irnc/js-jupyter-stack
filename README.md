@@ -1,3 +1,3 @@
-# js-jupyter-stack
+# puppeteer-jupyter-stack
 
-js-jupyter-stack is a community maintained Jupyter Docker Stack image
+puppeteer-jupyter-stack is a community maintained Jupyter Docker Stack image
